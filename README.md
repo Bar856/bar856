@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning TypeScript & AI <br>
 - 💬 Ask me about design patterns
 - 📫 How to reach me: ... <br>
-<a href="https://www.linkedin.com/in/barmaizel/">
+<a href="https://www.linkedin.com/in/bar-maizel/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge"/>
 </a>
 
