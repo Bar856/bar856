@@ -7,7 +7,7 @@
 </div>
 
 ### About Me :
-- 🔭 I’m currently working with MinervaXR as backend developer (node.js) <br>
+- 🔭 I’m currently working with MinervaXR as Full-Stack developer (React, Next.js) <br>
 - 🌱 I’m currently learning TypeScript & AI <br>
 - 💬 Ask me about design patterns
 - 📫 How to reach me: ... <br>
